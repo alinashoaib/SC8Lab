@@ -5,7 +5,7 @@ import UserInput from './Input/UserInput';
 
 class App extends Component {
     state = {
-        username: "njbbaer"
+        username: "Alina"
     }
 
     usernameHandler = (event) => {
